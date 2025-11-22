@@ -66,6 +66,18 @@
 
 ---
 
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PuneethAlgoFrame&theme=merko&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PuneethAlgoFrame&theme=merko&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethAlgoFrame&layout=compact&theme=merko&hide_border=true" height="160"/>
+</p>
+
+---
 ## 🚀 **About Me**
 
 * 💼 **Android Developer with 9+ years of experience**
@@ -94,10 +106,6 @@ If you're looking for:
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=puneethkumar450&icon=0&color=2" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PuneethAlgoFrame&icon=1&color=2" />
 </p>
 
 ---
