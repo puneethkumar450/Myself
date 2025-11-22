@@ -84,8 +84,3 @@ If you're looking for:
 
 📩 Reach me via **LinkedIn** or **Email**
 
-## ✨ Visitors
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=puneethkumar450&icon=0&color=2" />
-</p>
