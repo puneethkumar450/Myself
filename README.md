@@ -8,26 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AFEFF&center=true&vCenter=true&random=false&width=550&lines=Android+Developer+with+9%2B+Years+Experience;Jetpack+Compose+%7C+Kotlin+Expert;Building+Scalable+App+Architectures;Lifelong+Learner+%26+Tech+Content+Creator" alt="Typing animation" />
 </p>
 
-
-## 🌐 **Connect With Me**
-
-<p align="left">
-
-  <a href="https://www.linkedin.com/in/puneeth-kumar-android/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@kpuneethkumar450">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-
-  <a href="mailto:kpuneethkumar450@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
-
-
 ## 🛠️ **Tech Stack**
 
 ### **Mobile**
@@ -83,4 +63,20 @@ If you're looking for:
 * App architecture consulting
 
 📩 Reach me via **LinkedIn** or **Email**
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/puneeth-kumar-android/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://medium.com/@kpuneethkumar450">
+    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <a href="mailto:kpuneethkumar450@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
 
