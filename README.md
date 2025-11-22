@@ -96,4 +96,8 @@ If you're looking for:
   <img src="https://visitcount.itsvg.in/api?id=puneethkumar450&icon=0&color=2" />
 </p>
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=PuneethAlgoFrame&icon=1&color=2" />
+</p>
+
 ---
