@@ -66,18 +66,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneethAlgoFrame&theme=merko&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PuneethAlgoFrame&theme=merko&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethAlgoFrame&layout=compact&theme=merko&hide_border=true" height="160"/>
-</p>
-
----
 ## 🚀 **About Me**
 
 * 💼 **Android Developer with 9+ years of experience**
