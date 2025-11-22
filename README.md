@@ -8,6 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AFEFF&center=true&vCenter=true&random=false&width=550&lines=Android+Developer+with+9%2B+Years+Experience;Jetpack+Compose+%7C+Kotlin+Expert;Building+Scalable+App+Architectures;Lifelong+Learner+%26+Tech+Content+Creator" alt="Typing animation" />
 </p>
 
+## 🚀 **About Me**
+
+* 💼 **Android Developer with 9+ years of experience**
+* 📱 Expert in **Kotlin, Jetpack Compose, Architecture Components**
+* 🏗️ Focused on **Clean Architecture & modularization**
+* 🔍 Passionate about **performance-focused app development**
+* ✍️ I write **Android + Kotlin articles on Medium**
+* 🎯 Always learning. Always building.
+
 ## 🛠️ **Tech Stack**
 
 ### **Mobile**
@@ -40,17 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethkumar450&layout=compact&theme=merko&hide_border=true" height="160"/>
 </p>
-
-
-
-## 🚀 **About Me**
-
-* 💼 **Android Developer with 9+ years of experience**
-* 📱 Expert in **Kotlin, Jetpack Compose, Architecture Components**
-* 🏗️ Focused on **Clean Architecture & modularization**
-* 🔍 Passionate about **performance-focused app development**
-* ✍️ I write **Android + Kotlin articles on Medium**
-* 🎯 Always learning. Always building.
 
 
 ## 🤝 **Open to Opportunities**
