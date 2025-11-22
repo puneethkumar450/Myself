@@ -49,7 +49,6 @@
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 
----
 
 ## 📊 **GitHub Stats**
 
@@ -62,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethkumar450&layout=compact&theme=merko&hide_border=true" height="160"/>
 </p>
 
----
+
 
 ## 🚀 **About Me**
 
@@ -73,7 +72,6 @@
 * ✍️ I write **Android + Kotlin articles on Medium**
 * 🎯 Always learning. Always building.
 
----
 
 ## 🤝 **Open to Opportunities**
 
@@ -86,12 +84,8 @@ If you're looking for:
 
 📩 Reach me via **LinkedIn** or **Email**
 
----
-
 ## ✨ Visitors
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=puneethkumar450&icon=0&color=2" />
 </p>
-
----
