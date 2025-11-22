@@ -1,4 +1,4 @@
-## <div align="center">👋 Hey, I'm <strong>Puneeth Kumar</strong>
+ <div align="center">👋 Hey, I'm <strong>Puneeth Kumar</strong>
 
 <div align="center"> 🚀 Android Developer (9+ Years) | Kotlin, Jetpack Compose | Cross-Platform App Engineer
 
